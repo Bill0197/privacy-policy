@@ -19,7 +19,6 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://Bill0197.github.io/privacy-policy",
   "eslintConfig": {
     "extends": [
       "react-app",
